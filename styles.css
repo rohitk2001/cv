@@ -1,0 +1,43 @@
+#about{
+  margin:auto;
+  text-align:center;
+  padding-top:6%;
+  padding-bottom:15%;
+  padding-left:5%;
+  padding-right:5%;
+  background-color:#eb8f8f;
+  color:white;
+}
+.bg-danger{
+  background-color:#cd0a0a;
+}
+#work{
+  padding-top:5%;
+  padding-bottom:5%;
+  text-align:center;
+  background-color:#3f72af;
+}
+.proimg{
+  width:70%;
+  padding-left:5%;
+  padding-right:5%;
+}
+
+#contact{
+  text-align:center;
+  padding-top:5%;
+  padding-bottom:5%;
+  padding-left:2%;
+  background-color:#ee6f57;
+  color:white;
+}
+
+.line{
+  background-color:black;
+  height:3px;
+}
+
+.line1{
+  background-color:black;
+  height:10px;
+}
